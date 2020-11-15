@@ -2,6 +2,8 @@
 
 Created a notebook to analyse the relation between elevation and bio mass signature.
 
+![graph](elevation.png)
+
 ## Stemps to replicate the work.
 
 1. git clone https://github.com/omi-akif/DEM_Biomass.git
